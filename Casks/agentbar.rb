@@ -1,6 +1,6 @@
 cask "agentbar" do
-  version "0.1.6"
-  sha256 "9f333fad40eca14ae90b4afd2cbef7c944ad16475661f9588d41b9842e9d3069"
+  version "0.1.7"
+  sha256 "b498d00ebc0213ed0031608b4b931a7324d57efdc55a4f8d12b00e580b7ca3e5"
 
   url "https://github.com/varenyzc1/agentbar/releases/download/v#{version}/AgentBar-macos.zip",
       verified: "github.com/varenyzc1/agentbar/"
